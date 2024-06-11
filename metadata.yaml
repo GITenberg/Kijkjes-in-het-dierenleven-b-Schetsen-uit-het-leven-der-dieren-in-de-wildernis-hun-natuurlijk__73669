@@ -1,0 +1,55 @@
+_repo: Kijkjes-in-het-dierenleven-b-Schetsen-uit-het-leven-der-dieren-in-de-wildernis-hun-natuurlijk__73669
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Copeland, Charles
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '3033'
+    url: http://www.gutenberg.org/2009/agents/3033
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Copeland_(illustrator)
+  translator:
+    agent_name: Stoffel, Cilia
+    aliases:
+    - Stoffel, S. C. (S. Cilia)
+    - Stoffel, Sophia Cecilia
+    birthdate: 1887
+    deathdate: 1976
+    gutenberg_agent_id: '7790'
+    url: http://www.gutenberg.org/2009/agents/7790
+creator:
+  author:
+    agent_name: Long, William J. (William Joseph)
+    alias: Long, William Joseph
+    birthdate: 1867
+    deathdate: 1952
+    gutenberg_agent_id: '744'
+    url: http://www.gutenberg.org/2009/agents/744
+    wikipedia: https://en.wikipedia.org/wiki/William_J._Long
+description: 'Translated selections from: School of the woods (1902), published in
+  modified form as Wood folk at school (1903), #22101.'
+gutenberg_issued: '2024-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73669'
+language: nl
+pgterms:marc905: 20240120094801long
+pgterms:marc906: '1921'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: '  $aRotterdam :$bW. L. & J. Brusse Uitgevers-Maatschappij, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animal behavior'
+- !lcsh 'Animals -- Anecdotes'
+- !lcc 'QL'
+- GITenberg
+tableOfContents: Als de Patrijzen verzamelen -- Ontmoetingen met een Beer -- Quoskh
+  de Alziende -- Unk Wunk het Stekelvarken -- Hoe een Luilak zich vermaakte -- Umquenawis
+  de Machtige -- Als de Roeper lokt -- De Indiaansche Namen.
+title: 'Kijkjes in het dierenleven : $b Schetsen uit het leven der dieren in de wildernis,
+  hun natuurlijke aanleg en wat zij leeren moeten'
+url: http://www.gutenberg.org/ebooks/73669
