@@ -17,6 +17,9 @@ contributor:
     deathdate: 1976
     gutenberg_agent_id: '7790'
     url: http://www.gutenberg.org/2009/agents/7790
+covers:
+- cover_type: archival
+  image_path: 73669-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Long, William J. (William Joseph)
@@ -28,6 +31,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/William_J._Long
 description: 'Translated selections from: School of the woods (1902), published in
   modified form as Wood folk at school (1903), #22101.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73669#Kijkjes-in-het-dierenleven-b-Schetsen-uit-het-leven-der-dieren-in-de-wildernis-hun-natuurlijk_
 gutenberg_issued: '2024-05-21'
 gutenberg_type: Text
 identifiers:
